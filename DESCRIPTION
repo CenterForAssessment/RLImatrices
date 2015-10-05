@@ -1,4 +1,4 @@
-Package: RLIdata
+Package: RLImatrices
 Type: Package
 Title: Historical baseline coefficient matrices for RLI SGPt analyses
 Version: 1.0-0.0
@@ -9,7 +9,7 @@ Maintainer: Damian W. Betebenner <dbetebenner@nciea.org>
 Depends: R (>= 2.12)
 Suggests: SGP (>= 1.3-7.0)
 Description: Historical baseline coefficient matrices for RLI SGPt analyses.
-URL: https://github.com/CenterForAssessment/RLIdata
+URL: https://github.com/CenterForAssessment/RLImatrices
 LazyLoad: Yes
 LazyData: Yes
 License: GPL-3
