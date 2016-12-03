@@ -1,8 +1,8 @@
 Package: RLImatrices
 Type: Package
 Title: Historical baseline coefficient matrices for RLI SGPt analyses
-Version: 5.0-0.0
-Date: 2016-11-18
+Version: 6.0-0.0
+Date: 2016-12-2
 Authors@R: c(person(given=c("Damian", "W."), family="Betebenner", email="dbetebenner@nciea.org", role=c("aut", "cre")),
             person(given="Adam", family="Van Iwaarden", email="Vaniwaarden@colorado.edu", role="aut"))
 Maintainer: Damian W. Betebenner <dbetebenner@nciea.org>
