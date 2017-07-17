@@ -1,11 +1,11 @@
-`.onLoad` <- 
+`.onLoad` <-
 function(libname, pkgname) {
 }
 
 
-`.onAttach` <- 
+`.onAttach` <-
 function(libname, pkgname) {
 	if (interactive()) {
-		packageStartupMessage('RLImatrices ',paste(paste(unlist(strsplit(as.character(packageVersion("RLImatrices")), "[.]")), c(".", "-", ".", ""), sep=""), collapse=""),'  For help type: help("RLImatrices")')
+		packageStartupMessage('RLImatrices ', paste(paste0(unlist(strsplit(as.character(packageVersion("RLImatrices")), "[.]")), c(".", "-", ".", "")), collapse=""),' (7-17-2017). For help: >help("RLImatrices") or visit https://centerforassessment.github.io/RLImatrices')
 	}
 }

@@ -16,6 +16,10 @@ Matrices are used as part of the \code{rliSGP} function call. The environment cu
     \item{\code{RLI_SGPt_Baseline_Matrices_2015_2016.1}}{Fall, 2015-2016 SGPt analyses}
     \item{\code{RLI_SGPt_Baseline_Matrices_2015_2016.2}}{Winter, 2015-2016 SGPt analyses}
     \item{\code{RLI_SGPt_Baseline_Matrices_2015_2016.3}}{Spring, 2015-2016 SGPt analyses}
+    \item{\code{RLI_SGPt_Baseline_Matrices_2016_2017.1}}{Fall, 2016-2017 SGPt analyses}
+    \item{\code{RLI_SGPt_Baseline_Matrices_2016_2017.2}}{Winter, 2016-2017 SGPt analyses}
+    \item{\code{RLI_SGPt_Baseline_Matrices_2016_2017.3}}{Spring, 2016-2017 SGPt analyses}
+    \item{\code{RLI_SGPt_Baseline_Matrices_2017_2018.1}}{Fall, 2017-2018 SGPt analyses}
 }
 }
 
