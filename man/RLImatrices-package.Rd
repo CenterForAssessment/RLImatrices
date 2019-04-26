@@ -10,8 +10,8 @@
 \tabular{ll}{
 Package: \tab RLImatrices\cr
 Type: \tab Package\cr
-Version: \tab 9.5-0.0\cr
-Date: \tab 2017-10-25\cr
+Version: \tab 10.0-0.0\cr
+Date: \tab 2019-4-26\cr
 License: \tab GPL-3\cr
 LazyLoad: \tab Yes\cr
 LazyData: \tab Yes\cr
