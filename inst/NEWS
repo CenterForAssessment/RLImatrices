@@ -1,3 +1,7 @@
+Changes in version: RLImatrices_11.0-0.0
+
+  o Updated STAR and RASCH matrices for READING, MATHEMATICS, and EARLY_LITERACY using data up to 2017_2018.3.
+
 Changes in version: RLImatrices_10.0-0.0
 
   o Added in READING_UNIFIED_RASCH based matrices for Fall, Winter, Spring use based upon data up to 2017_2018.
