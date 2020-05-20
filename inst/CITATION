@@ -4,11 +4,11 @@ citEntry(entry = "Manual",
          title        = "{RLImatrices}: Baseline coefficient matrices for SGPt analyses.",
          author       = "Damian W. Betebenner and Adam R. Van Iwaarden",
          year         = "2020",
-         note         = "R package version 12.0-0.0",
+         note         = "R package version 13.0-0.0",
          url          = "https://github.com/CenterForAssessment/RLImatrices/",
          
          textVersion  = paste("Damian W. Betebenner and Adam R. Van Iwaarden (2020).",
                         "RLImatrices: Baseline coefficient matrices for SGPt analyses.",
-                        "(R package version 12.0-0.0.",
+                        "(R package version 13.0-0.0.",
                         "URL https://github.com/CenterForAssessment/RLImatrices/")
 )
