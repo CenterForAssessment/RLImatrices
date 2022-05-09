@@ -1,8 +1,8 @@
 Package: RLImatrices
 Type: Package
 Title: Historical baseline coefficient matrices for RLI SGPt analyses
-Version: 14.0-0.0
-Date: 2020-5-28
+Version: 15.0-0.0
+Date: 2022-5-9
 Authors@R: c(person(given=c("Damian", "W."), family="Betebenner", email="dbetebenner@nciea.org", role=c("aut", "cre")),
             person(given=c("Adam", "R. "), family="Van Iwaarden", email="Vaniwaarden@colorado.edu", role="aut"))
 Maintainer: Damian W. Betebenner <dbetebenner@nciea.org>
@@ -12,4 +12,5 @@ Description: Historical baseline coefficient matrices for RLI SGPt analyses.
 URL: https://github.com/CenterForAssessment/RLImatrices
 LazyLoad: Yes
 LazyData: Yes
-License: GPL-3
+LazyDataCompression: xz
+License: MIT + file LICENSE

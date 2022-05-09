@@ -1,3 +1,7 @@
+Changes in version: RLImatrices_15.0-0.0
+
+  o Adding in updated coefficient matrices for EARLY_LITERACY, READING, and MATHEMATICS (both STAR and RASCH) using 2018_2019 data. 
+
 Changes in version: RLImatrices_14.0-0.0
 
   o Finalizing SPANISH test matrices for READING, MATHEMATICS, and EARLY_LITERACY..
