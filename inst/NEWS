@@ -1,3 +1,11 @@
+Changes in version: RLImatrices_17.0-0.0
+
+  o Adding in UK based matrices for READING, READING_RASCH, MATHEMATICS, MATHEMATICS_RASCH. 
+
+Changes in version: RLImatrices_16.0-0.0
+
+  o Adding in updated coefficient matrices for EARLY_LITERACY, READING, and MATHEMATICS (both STAR and RASCH) using 2018_2019 data. 
+
 Changes in version: RLImatrices_15.0-0.0
 
   o Adding in updated coefficient matrices for EARLY_LITERACY, READING, and MATHEMATICS (both STAR and RASCH) using 2018_2019 data. 
