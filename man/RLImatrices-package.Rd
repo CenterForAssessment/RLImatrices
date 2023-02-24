@@ -11,7 +11,7 @@
 Package: \tab RLImatrices\cr
 Type: \tab Package\cr
 Version: \tab 17.0-0.0\cr
-Date: \tab 2023-2-20\cr
+Date: \tab 2023-2-24\cr
 License: \tab MIT\cr
 LazyLoad: \tab Yes\cr
 LazyData: \tab Yes\cr
