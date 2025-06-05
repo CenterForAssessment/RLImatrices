@@ -1,1 +1,4 @@
+importFrom(data.table,data.table)
 importFrom(utils,packageVersion)
+importFrom(utils,tail)
+export(getRLImatrixInfo)
